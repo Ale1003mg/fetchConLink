@@ -1,0 +1,37 @@
+[
+    {
+    "idCat":1,
+    "catNombre":"  ",
+    "inventario":[]
+    },
+    {
+    "idCat":2,
+    "catNombre":"Préstamo de Multimedia",
+    "inventario":[]
+    },
+    {
+    "idCat":3,
+    "catNombre":"Préstamo de libros",
+    "inventario":[]
+    },
+    {
+    "idCat":4,
+    "catNombre":"Material de oficina",
+    "inventario":[]
+    },
+    {
+    "idCat":5,
+    "catNombre":"Préstamo de Vehiculos",
+    "inventario":[]
+    },
+    {
+    "idCat":6,
+    "catNombre":"Préstamo de Computadoras",
+    "inventario":[]
+    },
+    {
+    "idCat":7,
+    "catNombre":"Equipo dentro de las Instalaciones",
+    "inventario":[]
+    }
+]
